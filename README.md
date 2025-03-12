@@ -1,4 +1,4 @@
-Тестовое задание для [FTOYD](https://ftoyd.com/) опубликовано на [https://ftoyd.vercel.app/](https://ftoyd.vercel.app/).
+Тестовое задание для [FTOYD](https://ftoyd.com/).
 
 ## Локальный запуск
 
