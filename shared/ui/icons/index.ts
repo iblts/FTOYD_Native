@@ -1,0 +1,5 @@
+export { default as IconAlert } from './Alert'
+export { default as IconArrowDown } from './ArrowDown'
+export { default as IconListArrowDown } from './ListArrowDown'
+export { default as IconRefresh } from './Refresh'
+export { default as IconTeam } from './Team'
